@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, I'm Michael 
 
-<!--
-**Mayala115/Mayala115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+www.linkedin.com/in/michael-ayala-aquino
 
-Here are some ideas to get you started:
+I am a current student at WGU majoring in Cybersecurity and Information Assurance. I am always learning new things to broaded my horizon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Objective
+
+I am currently on the journey on breaking into the IT field. I am always looking for ways to sharpen my skills and learn from my mistakes!
+
+Certifications
+
+-CompTIA A+
+
+Projects
